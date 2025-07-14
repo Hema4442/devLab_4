@@ -11,10 +11,10 @@ public class Servlet extends HttpServlet {
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
         out.println("<html><head><title>Devops Lab 4</title></head><body>");
-        out.println("<h1>Welcome to Tomcat</h1>");
+        out.println("<h1>Welcome to Bits Pilani</h1>");
         out.println("<ul>");
-        out.println("<li>Jereme</li>");
-        out.println("<li>2021WB86864</li>");
+        out.println("<li>Hema</li>");
+        out.println("<li>2021WC86701</li>");
         out.println("</ul>");
         out.println("</body></html>");
     }
